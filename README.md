@@ -1,0 +1,3 @@
+Project containing methods and code to process data from "Four decades of cultural evolution in House Finch songs". This project builds on the paper by attempting to apply binary classifiers to determine whether a bird belongs to one time group or another. 
+This projects main limitations relate to differences in equipment and background noise, which may make the model less robust at predicting time period. Additionally, locations selected were not constant between both time periods.  
+Chenghui Ju, Frances C Geller, Paul C Mundinger, David C Lahti, Four decades of cultural evolution in House Finch songs, The Auk, Volume 136, Issue 1, 1 January 2019, uky012, https://doi.org/10.1093/auk/uky012
